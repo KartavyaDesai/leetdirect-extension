@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "LeetDirect - Problem by number.",
+  "author": "Kartavya Desai",
+  "version": "1.0",
+  "description": "Quickly access problems by their number on LeetCode.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "host_permissions": ["https://leetcode.com/*"],
+  "icons": {
+    "128": "icon.png"
+  }
+}
